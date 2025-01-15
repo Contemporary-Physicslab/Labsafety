@@ -6,11 +6,15 @@
 
 ## General Safety & Security at Applied Physics (AP)
 
+Iets over veiligheid 
+
 ### Responsibilities
+
+Iets over shared responsibilities
 
 ```{list-table} Shared responsibility
 :header-rows: 1
-:name: shared-responisibility
+:name: shared-responsibility
 * - **TU Delft is responsible for:**
   - **You are responsible for:**
 * - a safe workplace;
@@ -64,7 +68,6 @@ Site alarm/slow whoop (press to hear the slow whoop alarm):
 ```{warning} Gas, smoke or fire:
 ```
 
-
 1. First think of your own safety.
 
 2. Press the red fire alarm button.
@@ -86,8 +89,7 @@ Safety at TU Delft
 Assembly points in case of emergencies, Applied Physics
 
 
-Assembly
-Points
+Assembly Points
 
 
 Safety at TU Delft
@@ -167,62 +169,61 @@ contact the Service Desk.
 
 
 
-Call +31(0)15 27 88888
-using a landline at TU
+Call +31(0)15 27 88888 using a landline at TU
 
-Delft or your mobile
-phone
+Delft or your mobile phone
 
-Save number in your
-mobile phone!
+Save number in your mobile phone!
 
 
+## Campus card
 
-Security at TU Delft
-Awareness: Campus Card
+Your campuscard is your personal identification card on the campus as it is connected to your NetID. It provides access to:
+- exams;
+- printer and study facilities;
+- entrances to areas (buildings, labs etc.);
+- use of machinery after instruction.
 
 Take care of your campus card and do not give it to others!
 
-
-It is your personal identification card on the campus as it is connected to your NetID. It provides access to:
-• exams;
-• printer and study facilities;
-• entrances to areas (buildings, labs etc.);
-• use of machinery after instruction.
-
-
-In case of loss/theft:
-Report to Service Desk immediately.
+In case of loss/theft: Report to Service Desk immediately.
 
 
 
-Advice on Safety & Security at TU Delft
-Conventional safety
+## Advice on Safety & Security at TU Delft Conventional safety
 
 
 Anneke Koster-Ammerlaan
-Thom van Velzen
-Health, Safety and Environmental (HSE)
-Health, Safety and Environment Advisor
-Advisor, Faculty of Applied Sciences
-Department of Applied Physics
-Telephone number:06 42391886
-Telephone number: 06 14015800
-E-mail: M.J.J.Koster-Ammerlaan@tudelft.nl
-E-mail: T.J.vanVelzen@tudelft.nl
 
+Health, Safety and Environmental (HSE)
+
+Advisor, Faculty of Applied Sciences
+
+Department of Applied Physics
+
+Telephone number:06 42391886
+
+E-mail: M.J.J.Koster-Ammerlaan@tudelft.nl
 
 Advice on Safety & Security at TU Delft
+
 Biological safety
+
 Safety & security
 
 
 Marinka Almering
+
 Ron Massink
+
 Biological Safety Officer TU Delft
+
 Corporate manager Integrated Hazard Risk
+
 Telephone number: 015 2789966
+
 TU Delft
+
 E-mail: M.J.H.Almering@tudelft.nl
 
 Radiological safety
