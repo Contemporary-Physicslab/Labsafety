@@ -1,28 +1,8 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
-
 # Lasersafety
 
-<div style='text-align: center;'>
-
-```{code-cell} ipython3
-:tags: [remove-input]
-from IPython.display import YouTubeVideo
-VideoWidth=600
-YouTubeVideo("dnMG6n0eyLk", width=VideoWidth, align='center')
+```{iframe} https://www.youtube.com/embed/dnMG6n0eyLk?si=ooYXRwERxA-Gro4w
+:width: 80%
 ```
-
-</div>
 
 ## Laser principle
 LASER: **L**ight **A**mplification by **S**timulated **E**mission of **R**adiation. 
@@ -111,7 +91,7 @@ figclass: margin
 ---
 ```
 
-```{Warning}  
+```{warning}  
 :class: dropdown
 Do not touch optical surfaces with bare hands and keep unused optics covered.
   * The delicate nature of optical components requires that special procedures be followed in order to maximize their performance and lifetime. Through everyday use, optics can come in contact with contaminants such as dust, water and skin oils. These contaminants increase scatter off the optical surface and absorb incident radiation, which can create hot spots on the optical surface, resulting in permanent damage. Optical components, like filters and dichroic mirrors with coatings are particularly susceptible to this sort of damage.
