@@ -4,7 +4,7 @@ In the science labs, you often work with devices and procedures that are still u
 
 In order to prevent the risks of possible accidents, a number of rules and guidelines have been drawn up that you must adhere to. Eliminating all risks is not possible, which is why we use the definition: *safety is the conscious taking of acceptable risks*.
 
-```{figure} Figures/safety/safety.jpg
+```{figure} Figures/safety.jpg
 ---
 width: 80%
 name: fig:veiligheid:safety
@@ -32,7 +32,7 @@ You can reduce the risk or severity of accidents by:
 
 In the sciences lab this is tackled by our chance by having you take a number of tests on safety so that you become aware of possible risks. In addition, we have a place in all lab rooms where you can put your coat and bag. The supervisors have had training in seeing and estimating and acting on possible risks. The labs are also set up in such a way that the risk is kept as small as possible.
 
-```{figure} Figures/safety/zuurkast.JPG
+```{figure} Figures/zuurkast.JPG
 ---
 width: 80%
 name: fig:veiligheid:zuurkast
@@ -50,7 +50,7 @@ On our side, a lot has already been done to reduce or completely eliminate the r
 
 If an accident does occur, report it immediately to the assistant. If help is needed, you can always call the emergency number for building 22: 015-2788888
 
-```{figure} Figures/safety/drunklab3.jpg
+```{figure} Figures/drunklab3.jpg
 ---
 width: 60%
 name: fig:veiligheid:drunk
@@ -70,7 +70,7 @@ These gas discharge lamps become very hot. The housing also becomes very warm. D
 
 The lenses and gratings that you use are very sensitive. They can quickly become scratched, which reduces the functioning of the component. Never put the optical instruments on a table, only hold them by the metal base, and when you use them, secure them immediately! This prevents them from falling and becoming damaged.
 
-```{figure} Figures/safety/drunklab3.jpg
+```{figure} Figures/drunklab3.jpg
 ---
 width: 60%
 name: fig:kwiklamp
@@ -82,7 +82,7 @@ HIER EEN FOTO VAN EEN KWIKLAMP
 
 High temperature objects (furnaces, reactors, oil baths) and low temperature objects (solid CO$_2$, cryogenic liquids such as liquid nitrogen) pose a risk of burns. There is a thermal risk above 80$^o$C and below -20$^o$C in the event of contact. Below -20$^o$C, objects that are grasped will 'stick', with a risk of frostbite. At temperatures below -40$^o$C, the same effects as with heating occur. When the cryogenic gases escape, they remain low, which can cause a dangerously high concentration that displaces the oxygen present. Any reduction in oxygen concentration below 21% is potentially dangerous. Inhaling oxygen-poor air can cause a person to lose consciousness.
 
-```{figure} Figures/safety/cryo.jpg
+```{figure} Figures/cryo.jpg
 ---
 width: 80%
 name: fig:cryo
@@ -135,7 +135,7 @@ For a number of specific experiments, an additional test is required (cryogenic 
 ## Case study
 In an experiment of the physics lab, research is done into the viscosity (stickiness) of glycerol. The setup to be used is shown in {numref}`figure {number} <glycerolcase>`. Perform a risk analysis before performing this experiment. Consider what could go wrong with the experiment, what the consequences would be, and how potential risks could be reduced.
 
-```{figure} Figures/safety/glycerolcase.png
+```{figure} Figures/glycerolcase.png
 ---
 name: glycerolcase
 width: 60%

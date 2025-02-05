@@ -3,10 +3,10 @@
 ## Introduction
 A cryogenic liquid is defined as a liquid with a normal boiling point below –150 °C. The most commonly used industrial gases that are transported, handled, and stored in the liquid state at cryogenic temperatures are argon, helium, hydrogen, nitrogen, and oxygen.
 
-```{figure} Figures/safety/cryo.jpg
+```{figure} Figures/cryo.jpg
 --- 
 width: 50%
-name: fig:cryo
+name: fig:cro
 ---
 
 ```

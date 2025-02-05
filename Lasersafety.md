@@ -7,7 +7,7 @@
 ## Laser principle
 LASER: **L**ight **A**mplification by **S**timulated **E**mission of **R**adiation. 
 
-```{figure} Figures/safety/laser.jpg
+```{figure} Figures/laser.jpg
 --- 
 width: 50%
 name: fig:oog
@@ -17,7 +17,7 @@ A demonstration experiment with a laser
 
 A laser consists of a gain medium, a mechanism to supply energy to it, and something to provide optical feedback. The **gain medium (1 in {numref}`figure {number} <fig:laser:principle>`)** is a material with properties that allow it to amplify light by stimulated emission. Light of a specific wavelength that passes through the gain medium is amplified. For the gain medium to amplify light, it needs to be supplied with energy. This process is called **pumping (2 in {numref}`figure {number} <fig:laser:principle>`)**. The energy is typically supplied as an electrical current, or as light at a different wavelength. Pump light may be provided by a flash lamp or by another laser. The most common type of laser uses feedback from an optical cavity – a pair of mirrors on either end of the gain medium: **reflector (3 in {numref}`figure {number} <fig:laser:principle>`)** and **output coupler (4 in {numref}`figure {number} <fig:laser:principle>`)**. Light bounces back and forth between the mirrors, passing through the gain medium and being amplified each time. Typically the output coupler is partially transparent and some of the light escapes through it. Depending on the design of the cavity (whether the mirrors are flat or curved), **the light coming out of the laser may spread out or form a narrow beam (5 in {numref}`figure {number} <fig:laser:principle>`)**.
 
-```{figure} Figures/safety/Lasersafety/Laser_principle.png
+```{figure} Figures/Lasersafety/Laser_principle.png
 --- 
 width: 50%
 name: fig:laser:principle
@@ -30,7 +30,7 @@ Characteristics of laser light are:
 * The light from a laser is said to be coherent, which means that the wavelengths of the laser light are in phase in space and time
 * Narrow beam with small angle of divergence
 
-```{figure} Figures/safety/Lasersafety/Characteristics_of_laser_light.png
+```{figure} Figures/Lasersafety/Characteristics_of_laser_light.png
 --- 
 width: 80%
 name: fig:laser:laservslamp
@@ -42,7 +42,7 @@ Lasers are also characterized by the duration of laser emission, continuous wave
 * **Continuous wave (CW) lasers** operate with a stable average beam power;
 * **Pulsed laser** refers to lasers in which the optical power appears in pulses of some duration (less than 0.25s) at some repetition rate. Pulsed lasers have a higher peak power than is possible in CW lasers.
 
-```{figure} Figures/safety/Lasersafety/Output_continuous_vs_pulsed.png
+```{figure} Figures/Lasersafety/Output_continuous_vs_pulsed.png
 --- 
 width: 90%
 name: fig:laser:continuousvspulsed
@@ -53,7 +53,7 @@ The ouput of a continuous laser (left), a single pulse laser (center) and a repe
 ## General safety 
 ### Behaviour in laser labs
 
-```{figure} Figures/safety/Lasersafety/No_eating_sign.png
+```{figure} Figures/Lasersafety/No_eating_sign.png
 --- 
 width: 40%
 name: fig:noeating
@@ -83,7 +83,7 @@ Always use a laser safety goggle!!!
 ```
 
 
-```{figure} Figures/safety/Lasersafety/No_jewellery_sign.png
+```{figure} Figures/Lasersafety/No_jewellery_sign.png
 --- 
 width: 60%
 name: fig:nojewellery
@@ -98,7 +98,7 @@ Do not touch optical surfaces with bare hands and keep unused optics covered.
   * ZnSe windows: Focusing with a high power laser onto the ZnSe-lens, toxic gasses may occur by heat decomposition. When ZnSe is damaged by overheating, a large amount of gas and powder may be released. In case of breaking a ZnSe-lens, please avoid touching the substrate with bare hands and avoid breathing in powder and gas.
 ```
 
-```{figure} Figures/safety/laser2.jpg
+```{figure} Figures/laser2.jpg
 --- 
 width: 50%
 name: fig:laser2
@@ -110,7 +110,7 @@ A laser set up
 ### Entering laser labs
 Laser labs can be recognized from the door signs placed at the entrance next to the door and the warning light "LASER ON". A laser cannot be powered without this light being ON.
 
-```{figure} Figures/safety/laserin.png
+```{figure} Figures/laserin.png
 --- 
 width: 50%
 name: fig:laserin
@@ -124,7 +124,7 @@ Warning lights above the doors indicate whether the laser in the room is in use.
 2. Knock, wait for an answer before entering.
 3. Enter. Laser labs have entrance control. Sweep your TUD key card to get in. You have 20 seconds to get in before the laser shutters get automatically closed (which should be avoided while acquiring data).
 
-```{figure} Figures/safety/Lasersafety/Panic_button.png
+```{figure} Figures/Lasersafety/Panic_button.png
 --- 
 width: 100%
 name: fig:panicbutton
@@ -135,7 +135,7 @@ align: left
 **Panic button**  
 In case of emergency the red button inside the laser laboratory can be pushed to stop the lasers immediately, and only the lasers. The emergency button wil be kept pushed in and you have to pul it back to start the lasers again.<br>
 
-```{figure} Figures/safety/Lasersafety/Laser_shutdown_button.png
+```{figure} Figures/Lasersafety/Laser_shutdown_button.png
 --- 
 width: 50%
 name: fig:lasershutdownbutton
@@ -176,7 +176,7 @@ The laser workers are the day-to-day users. They use the given setup and typical
 ## Laser classification
 Lasers are divided into several classes depending upon the power or energy of the beam and the wavelength of the emitted radiation. Laser classification is based on the laser’s potential for causing immediate injury to the eye or skin and/or potential for causing fires from direct exposure to the beam or from reflections from reflective surfaces.
 
-```{figure} Figures/safety/laserclasses.png
+```{figure} Figures/laserclasses.png
 --- 
 width: 50%
 name: fig:laserclasses
@@ -203,7 +203,7 @@ Highly dangerous. Lasers in this class have output powers of more than 500 mW in
 <iframe src="https://tudelft.h5p.com/content/1292290259123110007/embed" aria-label="Laser safety Q1" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Laser hazard
-```{figure} Figures/safety/laserhazard.png
+```{figure} Figures/laserhazard.png
 --- 
 width: 40%
 name: fig:laserhazard
@@ -243,7 +243,7 @@ Non specific laser hazards can be grouped into four general groupings:
 ### Laser radiation effects on the eye
 Our eyes are very vulnerable to laser light, even at low power. Since laser light is typically bright, coherent and directive (think about a laser pointer), your eye will easily focus all this light in a tiny spot on the retina, which can potentially create irreversible damages. A laser beam can be focused to an intensity on the retina which may be up to 200000 times higher than at the point where the laser beam enters the eye. Visible light causes burns of the retina, UV-light (300 – 400 nm) causes clouding of the eye lens and infrared light mainly causes thermal damage to the retina.
 
-```{figure} Figures/safety/Lasersafety/Eye_illustration.png
+```{figure} Figures/Lasersafety/Eye_illustration.png
 --- 
 width: 70%
 name: fig:eyeillustration
@@ -270,7 +270,7 @@ The layers of the skin, which are of concern in a discussion of laser hazards to
 * The dermis also varies in thickness depending on the location of the skin. It is 0.3 mm on the eyelid and 3.0 mm on the back. The dermis is composed of three types of tissue that are present throughout - not in layers. The types of tissue are collagen, elastic tissue, and reticular fibres.
 * The subcutaneous tissue is a layer of fat and connective tissue that houses larger blood vessels and nerves. This layer is important is the regulation of temperature of the skin itself and the body. The size of this layer varies throughout the body and from person to person.
 
-```{figure} Figures/safety/Lasersafety/Skin_illustration.png
+```{figure} Figures/Lasersafety/Skin_illustration.png
 --- 
 width: 70%
 name: fig:skinillustration
@@ -341,7 +341,7 @@ Laser protective eyewear shal be specifically designed to withstand either direc
 Laser safety eyewear shall be label ed according to NEN-EN-207 with type of laser, wavelength(s) and the maximum power the eyewear provides protection for or with the optical density and the wavelength(s) the eyewear provides protection for. Additional labelling may be added for quick identification of eyewear in multiple laser laboratories. Examples of eyewear labelling are shown in {numref}`figure {number} <fig:eyewearlabelling1>` and in {numref}`figure {number} <fig:eyewearlabelling2>`.
 
 
-```{figure} Figures/safety/Lasersafety/Eyewear_labelling1.jpg
+```{figure} Figures/Lasersafety/Eyewear_labelling1.jpg
 --- 
 width: 50% 
 name: fig:eyewearlabelling1 
@@ -349,7 +349,7 @@ name: fig:eyewearlabelling1
 An example of eyewear labelling.
 ```
 
-```{figure} Figures/safety/Lasersafety/Eyewear_labelling2.jpg
+```{figure} Figures/Lasersafety/Eyewear_labelling2.jpg
 --- 
 width: 50%
 name: fig:eyewearlabelling2 
