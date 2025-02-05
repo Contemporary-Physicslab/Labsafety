@@ -8,20 +8,18 @@
 LASER: **L**ight **A**mplification by **S**timulated **E**mission of **R**adiation. 
 
 ```{figure} Figures/laser.jpg
---- 
-width: 50%
-name: fig:oog
----
+:width: 50%
+:name fig:oog
+
 A demonstration experiment with a laser
 ```
 
 A laser consists of a gain medium, a mechanism to supply energy to it, and something to provide optical feedback. The **gain medium (1 in {numref}`figure {number} <fig:laser:principle>`)** is a material with properties that allow it to amplify light by stimulated emission. Light of a specific wavelength that passes through the gain medium is amplified. For the gain medium to amplify light, it needs to be supplied with energy. This process is called **pumping (2 in {numref}`figure {number} <fig:laser:principle>`)**. The energy is typically supplied as an electrical current, or as light at a different wavelength. Pump light may be provided by a flash lamp or by another laser. The most common type of laser uses feedback from an optical cavity – a pair of mirrors on either end of the gain medium: **reflector (3 in {numref}`figure {number} <fig:laser:principle>`)** and **output coupler (4 in {numref}`figure {number} <fig:laser:principle>`)**. Light bounces back and forth between the mirrors, passing through the gain medium and being amplified each time. Typically the output coupler is partially transparent and some of the light escapes through it. Depending on the design of the cavity (whether the mirrors are flat or curved), **the light coming out of the laser may spread out or form a narrow beam (5 in {numref}`figure {number} <fig:laser:principle>`)**.
 
 ```{figure} Figures/Lasersafety/Laser_principle.png
---- 
-width: 50%
-name: fig:laser:principle
----
+:width: 50%
+:name: fig:laser:principle
+
 The principle of a laser, with a gain medium (1), pumping (2), a reflector (3), an output coupler (4) and a resulting laser beam (5).
 ```
 
@@ -31,10 +29,9 @@ Characteristics of laser light are:
 * Narrow beam with small angle of divergence
 
 ```{figure} Figures/Lasersafety/Characteristics_of_laser_light.png
---- 
-width: 80%
-name: fig:laser:laservslamp
----
+:width: 80%
+:name: fig:laser:laservslamp
+
 Light emitted by a lamp (left) versus light emitted by a laser (right)
 ```
 
@@ -43,10 +40,9 @@ Lasers are also characterized by the duration of laser emission, continuous wave
 * **Pulsed laser** refers to lasers in which the optical power appears in pulses of some duration (less than 0.25s) at some repetition rate. Pulsed lasers have a higher peak power than is possible in CW lasers.
 
 ```{figure} Figures/Lasersafety/Output_continuous_vs_pulsed.png
---- 
-width: 90%
-name: fig:laser:continuousvspulsed
----
+:width: 90%
+:name: fig:laser:continuousvspulsed
+
 The ouput of a continuous laser (left), a single pulse laser (center) and a repetitive pulse laser (right). 
 ```
 
@@ -54,11 +50,10 @@ The ouput of a continuous laser (left), a single pulse laser (center) and a repe
 ### Behaviour in laser labs
 
 ```{figure} Figures/Lasersafety/No_eating_sign.png
---- 
-width: 40%
-name: fig:noeating
-figclass: margin
----
+:width: 40%
+:name: fig:noeating
+
+
 ```
 There are some general guidelines that always apply when working with lasers:
 1.  Only registered laser users or workers are allowed to enter a laser laboratory.
@@ -84,11 +79,10 @@ Always use a laser safety goggle!!!
 
 
 ```{figure} Figures/Lasersafety/No_jewellery_sign.png
---- 
-width: 60%
-name: fig:nojewellery
-figclass: margin
----
+:width: 60%
+:name: fig:nojewellery
+
+
 ```
 
 ```{warning}  
@@ -99,10 +93,9 @@ Do not touch optical surfaces with bare hands and keep unused optics covered.
 ```
 
 ```{figure} Figures/laser2.jpg
---- 
-width: 50%
-name: fig:laser2
----
+:width: 50%
+:name: fig:laser2
+
 A laser set up 
 ```
 
@@ -111,10 +104,9 @@ A laser set up
 Laser labs can be recognized from the door signs placed at the entrance next to the door and the warning light "LASER ON". A laser cannot be powered without this light being ON.
 
 ```{figure} Figures/laserin.png
---- 
-width: 50%
-name: fig:laserin
----
+:width: 50%
+:name: fig:laserin
+
 Warning lights above the doors indicate whether the laser in the room is in use.
 ```
 
@@ -125,22 +117,18 @@ Warning lights above the doors indicate whether the laser in the room is in use.
 3. Enter. Laser labs have entrance control. Sweep your TUD key card to get in. You have 20 seconds to get in before the laser shutters get automatically closed (which should be avoided while acquiring data).
 
 ```{figure} Figures/Lasersafety/Panic_button.png
---- 
-width: 100%
-name: fig:panicbutton
-align: left
----
+:width: 100%
+:name: fig:panicbutton
+
 ```
 
 **Panic button**  
 In case of emergency the red button inside the laser laboratory can be pushed to stop the lasers immediately, and only the lasers. The emergency button wil be kept pushed in and you have to pul it back to start the lasers again.<br>
 
 ```{figure} Figures/Lasersafety/Laser_shutdown_button.png
---- 
-width: 50%
-name: fig:lasershutdownbutton
-align: left
----
+:width: 50%
+:name: fig:lasershutdownbutton
+
 ```
 **Laser shut down button**  
 The white laser shut down button can be found outside the laser laboratories. Only the emergency response team is allowed to use this button to shut down the laser in case of an emergency in the laser laboratory.<br>
@@ -177,10 +165,9 @@ The laser workers are the day-to-day users. They use the given setup and typical
 Lasers are divided into several classes depending upon the power or energy of the beam and the wavelength of the emitted radiation. Laser classification is based on the laser’s potential for causing immediate injury to the eye or skin and/or potential for causing fires from direct exposure to the beam or from reflections from reflective surfaces.
 
 ```{figure} Figures/laserclasses.png
---- 
-width: 50%
-name: fig:laserclasses
----
+:width: 50%
+:name: fig:laserclasses
+
 Different laserclasses based on their wavelength and power
 ```
 
@@ -204,12 +191,11 @@ Highly dangerous. Lasers in this class have output powers of more than 500 mW in
 
 ## Laser hazard
 ```{figure} Figures/laserhazard.png
---- 
-width: 40%
-name: fig:laserhazard
-align: right
----
+:width: 40%
+:name: fig:laserhazard
+
 ```
+
 Generally one can state that a laser is more dangerous with:
 * Higher power  
 Higher intensity means more power per time that can cause damage
@@ -244,10 +230,9 @@ Non specific laser hazards can be grouped into four general groupings:
 Our eyes are very vulnerable to laser light, even at low power. Since laser light is typically bright, coherent and directive (think about a laser pointer), your eye will easily focus all this light in a tiny spot on the retina, which can potentially create irreversible damages. A laser beam can be focused to an intensity on the retina which may be up to 200000 times higher than at the point where the laser beam enters the eye. Visible light causes burns of the retina, UV-light (300 – 400 nm) causes clouding of the eye lens and infrared light mainly causes thermal damage to the retina.
 
 ```{figure} Figures/Lasersafety/Eye_illustration.png
---- 
-width: 70%
-name: fig:eyeillustration
----
+:width: 70%
+:name: fig:eyeillustration
+
 A schematic illustration of a laser beam entering an eye.
 ```
 
@@ -271,14 +256,13 @@ The layers of the skin, which are of concern in a discussion of laser hazards to
 * The subcutaneous tissue is a layer of fat and connective tissue that houses larger blood vessels and nerves. This layer is important is the regulation of temperature of the skin itself and the body. The size of this layer varies throughout the body and from person to person.
 
 ```{figure} Figures/Lasersafety/Skin_illustration.png
---- 
-width: 70%
-name: fig:skinillustration
----
+:width: 70%
+:name: fig:skinillustration
+
 A schematic illustration of the layers of the skin.
 ```
 
-A sensation of warmth resulting from the absorption of laser energy normally provides adequate warning to prevent thermal injury to the skin from almost all lasers except for some high-power far-infrared lasers. Any irradiance of 0.1 W/cm2 produces a sensation of warmth at diameters larger than 1 cm. On the other hand, one tenth of this level can be readily sensed if a large portion of the body is exposed. Long-term exposure to UV lasers has been shown to cause long-term delayed effects such as accelerated skin aging and skin cancer. Even so, damage can occu if the lasers are not handled carefully. The effects depend on the laser type:
+A sensation of warmth resulting from the absorption of laser energy normally provides adequate warning to prevent thermal injury to the skin from almost all lasers except for some high-power far-infrared lasers. Any irradiance of 0.1 W/cm2 produces a sensation of warmth at diameters larger than 1 cm. On the other hand, one tenth of this level can be readily sensed if a large portion of the body is exposed. Long-term exposure to UV lasers has been shown to cause long-term delayed effects such as accelerated skin aging and skin cancer. Even so, damage can occur if the lasers are not handled carefully. The effects depend on the laser type:
 
 * Exposure in the **UV-B** range (280 nm - 315 nm) is most injurious to skin. In addition to thermal injury caused by ultraviolet energy, there is the possibility of radiation carcinogenesis from UV-B  either directly on DNA or from effects on potential carcinogenic intracellular viruses.
 * Exposure in the shorter **UV-C** (0. 200 µm-0.280 µm) and the longer **UV-A** ranges seems less harmful to human skin. The shorter wavelengths are absorbed in the outer dead layers of the epidermis (stratum corium) and the longer wavelengths have an initial pigment-darkening effect followed by erythema if there is exposure to excessive levels.
@@ -321,7 +305,7 @@ The **Checklist Laser Safety** (ask your LSO or HSE advisor) provides a summary 
 
 
 :::{table} Control measures as a function of the laser class
-:name: table:measureslaser
+::name table:measureslaser
 | Laser class                                         | Nature of hazard                                                                               | Example of controlled area                                                                                                                                                                           | Outline of protective control measures                                                                                                                                                                                                        |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Class 1 & Class 2                                   | Minimal (N.B. Embedded lasers may present associated hazards)                                  | Unrestricted; i.e., a designated laser area is not normally required                                                                                                                                 | Follow warnings on labels and manufacturer's instructions for safe use                                                                                                                                                                        |
@@ -342,18 +326,16 @@ Laser safety eyewear shall be label ed according to NEN-EN-207 with type of lase
 
 
 ```{figure} Figures/Lasersafety/Eyewear_labelling1.jpg
---- 
-width: 50% 
-name: fig:eyewearlabelling1 
----
+:width: 50% 
+:name: fig:eyewearlabelling1 
+
 An example of eyewear labelling.
 ```
 
 ```{figure} Figures/Lasersafety/Eyewear_labelling2.jpg
---- 
-width: 50%
-name: fig:eyewearlabelling2 
----
+:width: 50%
+:name: fig:eyewearlabelling2 
+
 An example of eyewear labelling.
 ```
 

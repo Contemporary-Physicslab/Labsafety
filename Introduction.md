@@ -83,10 +83,9 @@ HIER EEN FOTO VAN EEN KWIKLAMP
 High temperature objects (furnaces, reactors, oil baths) and low temperature objects (solid CO$_2$, cryogenic liquids such as liquid nitrogen) pose a risk of burns. There is a thermal risk above 80$^o$C and below -20$^o$C in the event of contact. Below -20$^o$C, objects that are grasped will 'stick', with a risk of frostbite. At temperatures below -40$^o$C, the same effects as with heating occur. When the cryogenic gases escape, they remain low, which can cause a dangerously high concentration that displaces the oxygen present. Any reduction in oxygen concentration below 21% is potentially dangerous. Inhaling oxygen-poor air can cause a person to lose consciousness.
 
 ```{figure} Figures/cryo.jpg
----
-width: 80%
-name: fig:cryo
----
+:width: 80%
+:name: fig:cryo
+
 Proper working methods with cryogenic substances require, among other things, the correct clothing.
 ```
 
@@ -95,7 +94,7 @@ In a (technical) scientific laboratory, liquid nitrogen is often used. The tempe
 - special cold-insulating gloves that are loose enough to be able to remove them immediately if liquid nitrogen accidentally splashes in
 - loose-fitting work jackets that can be removed immediately
 
-Practical work with cryogenic substances with shorts, open shoes or loose-fitting boots is not permitted. The risks are too high for that. Also see the extensive description on the theme [cryogenic substances](#Cryogenes.md).
+Practical work with cryogenic substances with shorts, open shoes or loose-fitting boots is not permitted. The risks are too high for that. Also see the extensive description on the theme [cryogenic substances](./Cryogenes.md).
 
 ### Lasers
 
@@ -103,7 +102,7 @@ In some experiments you work with lasers. Lasers can develop a large amount of e
 
 The (negative) consequences depend on the wavelength and intensity of the radiation, the duration of the exposure and the part of the body that is exposed. The best-known harmful effects of exposure to electromagnetic radiation are related to the development of heat in tissue (thermal effect). The skin and (especially) the eyes are the organs that are most vulnerable.
 
-The person who builds a setup with a laser must prevent reflections of the laser light. There are also lasers that have an invisible beam (ultraviolet, infrared) but which can still cause damage to the eyes. These lasers are extra dangerous precisely because of the invisible beam. Make sure there is sufficient shielding. In addition to shielding the laser, you must also use laser safety glasses. Also see the extensive description on the theme [laser safety](#Lasersafety.md).
+The person who builds a setup with a laser must prevent reflections of the laser light. There are also lasers that have an invisible beam (ultraviolet, infrared) but which can still cause damage to the eyes. These lasers are extra dangerous precisely because of the invisible beam. Make sure there is sufficient shielding. In addition to shielding the laser, you must also use laser safety glasses. Also see the extensive description on the theme [laser safety](./Lasersafety.md).
 
 ## Safety check
 
