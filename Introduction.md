@@ -87,8 +87,7 @@ High temperature objects (furnaces, reactors, oil baths) and low temperature obj
 width: 80%
 name: fig:cryo
 ---
-Een juiste werkwijze met Cryogene stoffen vereist o.a. de
-juiste kleding.
+Proper working methods with cryogenic substances require, among other things, the correct clothing.
 ```
 
 In a (technical) scientific laboratory, liquid nitrogen is often used. The temperature of liquid nitrogen is -196$^o$C or 77K. When using liquid nitrogen, care must be taken and the prescribed personal protective equipment must be worn, such as:
@@ -96,7 +95,7 @@ In a (technical) scientific laboratory, liquid nitrogen is often used. The tempe
 - special cold-insulating gloves that are loose enough to be able to remove them immediately if liquid nitrogen accidentally splashes in
 - loose-fitting work jackets that can be removed immediately
 
-Practical work with cryogenic substances with shorts, open shoes or loose-fitting boots is not permitted. The risks are too high for that. Also see the extensive description on the theme [cryogenic substances] (Cryogenes.md).
+Practical work with cryogenic substances with shorts, open shoes or loose-fitting boots is not permitted. The risks are too high for that. Also see the extensive description on the theme [cryogenic substances](#Cryogenes.md).
 
 ### Lasers
 
@@ -104,7 +103,7 @@ In some experiments you work with lasers. Lasers can develop a large amount of e
 
 The (negative) consequences depend on the wavelength and intensity of the radiation, the duration of the exposure and the part of the body that is exposed. The best-known harmful effects of exposure to electromagnetic radiation are related to the development of heat in tissue (thermal effect). The skin and (especially) the eyes are the organs that are most vulnerable.
 
-The person who builds a setup with a laser must prevent reflections of the laser light. There are also lasers that have an invisible beam (ultraviolet, infrared) but which can still cause damage to the eyes. These lasers are extra dangerous precisely because of the invisible beam. Make sure there is sufficient shielding. In addition to shielding the laser, you must also use laser safety glasses. Also see the extensive description on the theme [laser safety] (Lasersafety.md).
+The person who builds a setup with a laser must prevent reflections of the laser light. There are also lasers that have an invisible beam (ultraviolet, infrared) but which can still cause damage to the eyes. These lasers are extra dangerous precisely because of the invisible beam. Make sure there is sufficient shielding. In addition to shielding the laser, you must also use laser safety glasses. Also see the extensive description on the theme [laser safety](#Lasersafety.md).
 
 ## Safety check
 
@@ -141,5 +140,5 @@ In an experiment of the physics lab, research is done into the viscosity (sticki
 name: glycerolcase
 width: 60%
 ---
-An experimetnal setup used in the first year lab
+An experimental setup used in the first year lab
 ```
