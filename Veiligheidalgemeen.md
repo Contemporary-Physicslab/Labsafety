@@ -1,4 +1,4 @@
-# Veiligheid
+# Safety
 
 In de verschillende hoofdstukken vind je informatie over aspecten van veiligheid in het lab.
 
