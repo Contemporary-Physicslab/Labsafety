@@ -57,7 +57,11 @@ Know where to find the emergency facilities (e.g. emergency exits, assembly poin
 
 4. Go to the nearest assembly point/checkpoint.
 
-![](Figures/assembly.jpg)
+```{figure} Figures/assembly.jpg
+:width: 50%
+
+assembly point
+```
 
 5. At the assembly point/checkpoint, wait for instructions of the in-house emergency response team (Bedrijfshulpverlening, BHV).
 
@@ -80,7 +84,11 @@ Know where to find the emergency facilities (e.g. emergency exits, assembly poin
 
 5. Go to the nearest assembly point/checkpoint: 
 
-![](Figures/assembly.jpg)
+```{figure} Figures/assembly.jpg
+:width: 50%
+
+assembly point
+```
 
 6. At the assembly point/checkpoint, wait for instructions of the in-house emergency response team ( Bedrijfshulpverlening, BHV).
 
@@ -155,7 +163,7 @@ In case of loss/theft: Report to Service Desk immediately.
 
 
 
-## Advice on Safety & Security at TU Delft Conventional safety
+### Advice on Safety & Security at TU Delft Conventional safety
 
 
 Anneke Koster-Ammerlaan

@@ -46,7 +46,7 @@ The cloudy vapor that appears when liquid N2 is exposed to the air is condensed 
 
 |\% Oxygen Safe or not| |
 |---|---|
-|< 18 | Alarm detector --> immediatley leave the room. Prohibited to enter |
+|< 18 | Alarm detector --> immediately leave the room. Prohibited to enter |
 |< 19 | Calmly leave the room and do not enter the room |
 |19-21|Normal ratio, safe to stay in the room |
 |> 22 |Immediately leave the room. Prohibited to enter|
@@ -97,7 +97,7 @@ The following personal protection equipment is obligated when handling cryogenic
 * Shoes: Enclosed footwear, preferably safety shoes/boots, must be worn whilst handling liquid nitrogen
 
 ## Decanting liquid nitrogen and/or siphoning liquid helium
-* Before using the liquid-nitrogen / liquid helium dispensing system, new employees must be instructed in its operation by an assigned user. Be aware of the existing procedures. The assigned user grants them authorisation in Lab Servant. Only with this authorisation employees can gain access to the dispensing room using their campus card.
+* Before using the liquid-nitrogen / liquid helium dispensing system, new employees must be instructed in its operation by an assigned user. Be aware of the existing procedures. The assigned user grants them authorization in Lab Servant. Only with this authorization employees can gain access to the dispensing room using their campus card.
 
 * The TU clothing regulations apply when decanting liquid nitrogen and liquid helium. The prescribed personal protective equipment – face mask, cryogenic gloves, lab coat – must be worn at all times.
 * To prevent oxygen enrichment in open Dewar flasks, they must first be completely emptied before refilling with liquid nitrogen.
@@ -123,7 +123,7 @@ Make sure that you have enough ventilation.
 Outside normal office hours working with cryogenic liquids is not allowed (TU policy). Under certain circumstances it is inevitable to work with cryogenics. Then the following rules apply.
 Outside normal office hours, a second knowledgeable person must be at shouting distance during all operations involving cryogenic liquids.
 Using cryogenic liquids in experiments
-* Decanting liquid nitrogen and/or siphoning liquid helium is only allowed by authorised persons.
+* Decanting liquid nitrogen and/or siphoning liquid helium is only allowed by authored persons.
 * Large Dewar flasks should only be filled and transported to the laboratory during normal working hours. If an exception to this rule is necessary, enter into an agreement with your HSE-advisor.
 
 ## Working with cryogenic liquids outside normal office hours (17.00-07.30)
@@ -148,7 +148,7 @@ Departmental storage facilities (ventilation, detection).
 * Safe limit in an unventilated space: Calculate the room volume in m3 and the max volume of nitrogen in $\mathrm{m^3}$ (1 liter of LN2 or LHe corresponds respectively with a volume of 0.7 $\mathrm{m^3}$ and 0.76 $\mathrm{m^3}$ gas @ 21 °C and 1 atm). The ratio of gas volume/room volume should be <0.15.
 
 ## Elevator procedure for transporting cryogenic liquids
-You can call the goods lift to any floor using an authorised campus card.
+You can call the goods lift to any floor using an authorized campus card.
 1. Hold the campus card up to the card scanner in the hall. If the card has been scanned successfully, the word Voorkeur / Service (Preference) will appear on the display screen.
 2. You then have to present the campus card at the lift cage within 30 seconds. Once you have done this, the words TU Transport will appear on the display screens on all floors. The lift will go to the correct floor and wait there for the next action.
 If you do not present the campus card at the lift cage within 30 seconds, the lift will resume normal service.You can now proceed to load the lift.
