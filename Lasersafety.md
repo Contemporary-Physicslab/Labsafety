@@ -72,14 +72,14 @@ There are some general guidelines that always apply when working with lasers:
 Which important safety measure is missing in the above?
 ```
 
-```{admonition} Antwoord
+```{admonition} Answer
 :class: dropdown
 Always use a laser safety goggle!!!
 ```
 
 
 ```{figure} Figures/Lasersafety/No_jewellery_sign.png
-:width: 60%
+:width: 40%
 :name: fig:nojewellery
 
 
