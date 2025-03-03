@@ -9,7 +9,7 @@ LASER: **L**ight **A**mplification by **S**timulated **E**mission of **R**adiati
 
 ```{figure} Figures/laser.jpg
 :width: 50%
-:name fig:oog
+:name: fig:oog
 
 A demonstration experiment with a laser
 ```
@@ -117,7 +117,7 @@ Warning lights above the doors indicate whether the laser in the room is in use.
 3. Enter. Laser labs have entrance control. Sweep your TUD key card to get in. You have 20 seconds to get in before the laser shutters get automatically closed (which should be avoided while acquiring data).
 
 ```{figure} Figures/Lasersafety/Panic_button.png
-:width: 100%
+:width: 50%
 :name: fig:panicbutton
 
 ```

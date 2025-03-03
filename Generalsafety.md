@@ -6,11 +6,11 @@
 
 ## General Safety & Security at Applied Physics (AP)
 
-Iets over veiligheid 
+In a professional organization where people are conducting complex experiments with expensive materials, safety is key. Hence, you need to be aware of general safety regulations and are obliged to pass some basic safety tests.
 
 ### Responsibilities
 
-Iets over shared responsibilities
+Safety is not something we can do on our own. We have a shared responsibility:
 
 ```{list-table} Shared responsibility
 :header-rows: 1
@@ -27,28 +27,25 @@ Iets over shared responsibilities
 
 ### Emergencies and minor accidents
 
-1. Call the internal alarm number.
+1. Call the internal alarm number +31(0)15 27 88888.
 
 2. The emergency centre of TU Delft will send the in-house emergency response team (Bedrijfshulpverlening, BHV).
 
 3. If needed, the emergency centre of TU Delft will contact the external emergency services.
 
+```{note}
 When in doubt, always call the internal alarm number.
-
-Internal Alarm Number
-Be prepared for emergencies.
-
-
-Know where to find the emergency facilities (e.g. emergency exits, assembly point).
+```
 
 ```{warning} Internal alarm number
 +31(0)15 27 88888
 ```
 
+```{tip} Be prepared for emergencies!
+Know where to find the emergency facilities (e.g. emergency exits, assembly point).
+```
 
-### In case of…
-
-Site alarm/slow whoop (press to hear the slow whoop alarm): 
+### In case of Site alarm/slow whoop
 
 1. First think of your own safety.
 
@@ -63,10 +60,7 @@ Site alarm/slow whoop (press to hear the slow whoop alarm):
 
 
 
-### In case of…
-
-```{warning} Gas, smoke or fire:
-```
+### In case of Gas, smoke or fire:
 
 1. First think of your own safety.
 
@@ -75,9 +69,7 @@ Site alarm/slow whoop (press to hear the slow whoop alarm):
 3. Extinguish small fires if you feel confident.
 
 
-Keep in mind that a hand held fire
-
-extinguisher is empty after approx. 20 seconds.
+Keep in mind that a hand held fire extinguisher is empty after approx. 20 seconds.
 
 4. If possible, warn your colleagues and assist people with disabilities.
 
@@ -131,7 +123,7 @@ How to prevent Repetitive Strain Injury (RSI)
 
 • Alternate between repetitive and non-repetitive work.
 
-• Take regular breaks, use Workrave.
+• Take regular breaks.
 
 • Learn to deal with tension.
 
@@ -178,7 +170,7 @@ Save number in your mobile phone!
 
 ## Campus card
 
-Your campuscard is your personal identification card on the campus as it is connected to your NetID. It provides access to:
+Your campus card is your personal identification card on the campus as it is connected to your NetID. It provides access to:
 - exams;
 - printer and study facilities;
 - entrances to areas (buildings, labs etc.);

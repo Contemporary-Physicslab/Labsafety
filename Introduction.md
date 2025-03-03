@@ -5,10 +5,9 @@ In the science labs, you often work with devices and procedures that are still u
 In order to prevent the risks of possible accidents, a number of rules and guidelines have been drawn up that you must adhere to. Eliminating all risks is not possible, which is why we use the definition: *safety is the conscious taking of acceptable risks*.
 
 ```{figure} Figures/safety.jpg
----
-width: 80%
-name: fig:veiligheid:safety
----
+:width: 80%
+:name: fig:veiligheid:safety
+
 We must try to prevent this...
 ```
 
@@ -33,10 +32,9 @@ You can reduce the risk or severity of accidents by:
 In the sciences lab this is tackled by our chance by having you take a number of tests on safety so that you become aware of possible risks. In addition, we have a place in all lab rooms where you can put your coat and bag. The supervisors have had training in seeing and estimating and acting on possible risks. The labs are also set up in such a way that the risk is kept as small as possible.
 
 ```{figure} Figures/zuurkast.JPG
----
-width: 80%
-name: fig:veiligheid:zuurkast
----
+:width: 80%
+:name: fig:veiligheid:zuurkast
+
 A poorly designed workplace is an invite to accidents...
 ```
 
@@ -51,10 +49,9 @@ On our side, a lot has already been done to reduce or completely eliminate the r
 If an accident does occur, report it immediately to the assistant. If help is needed, you can always call the emergency number for building 22: 015-2788888
 
 ```{figure} Figures/drunklab3.jpg
----
-width: 60%
-name: fig:veiligheid:drunk
----
+:width: 60%
+:name: fig:veiligheid:drunk
+
 It sometimes happens that students still have alcohol in their blood when they have to do a practical. If this is the case, they are not welcome.
 ```
 
@@ -71,10 +68,9 @@ These gas discharge lamps become very hot. The housing also becomes very warm. D
 The lenses and gratings that you use are very sensitive. They can quickly become scratched, which reduces the functioning of the component. Never put the optical instruments on a table, only hold them by the metal base, and when you use them, secure them immediately! This prevents them from falling and becoming damaged.
 
 ```{figure} Figures/drunklab3.jpg
----
-width: 60%
-name: fig:kwiklamp
----
+:width: 60%
+:name: fig:kwiklamp
+
 HIER EEN FOTO VAN EEN KWIKLAMP
 ```
 
@@ -135,9 +131,8 @@ For a number of specific experiments, an additional test is required (cryogenic 
 In an experiment of the physics lab, research is done into the viscosity (stickiness) of glycerol. The setup to be used is shown in {numref}`figure {number} <glycerolcase>`. Perform a risk analysis before performing this experiment. Consider what could go wrong with the experiment, what the consequences would be, and how potential risks could be reduced.
 
 ```{figure} Figures/glycerolcase.png
----
-name: glycerolcase
-width: 60%
----
+:name: glycerolcase
+:width: 60%
+
 An experimental setup used in the first year lab
 ```
