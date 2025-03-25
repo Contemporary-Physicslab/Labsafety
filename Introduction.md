@@ -67,11 +67,11 @@ These gas discharge lamps become very hot. The housing also becomes very warm. D
 
 The lenses and gratings that you use are very sensitive. They can quickly become scratched, which reduces the functioning of the component. Never put the optical instruments on a table, only hold them by the metal base, and when you use them, secure them immediately! This prevents them from falling and becoming damaged.
 
-```{figure} Figures/drunklab3.jpg
+```{figure} Figures/neonlamp.jpg
 :width: 60%
 :name: fig:kwiklamp
 
-HIER EEN FOTO VAN EEN KWIKLAMP
+Studying spectral lines comes with the risk of burning (hot lamp), invisible radiation (UV), and bad wiring.
 ```
 
 ### Cryogenic substances
